@@ -118,40 +118,66 @@ Her öğrenci için:
 
 ```bash
 git clone https://github.com/ismihankrmz/ogrenci_yerlestirme_simulasyonu.git
+```
 
-2.Gerekli kütüphaneleri yükleyin:
+2. Gerekli kütüphaneleri yükleyin:
 
+```bash
 pip install pandas
+```
 
-3.Simülasyonu çalıştırın:
+3. Simülasyonu çalıştırın:
 
+```bash
 python imep_ogrenci_yerlestirme_simulasyonu.py
+```
 
-📊 Performans Karşılaştırması
+---
+
+## 📊 Performans Karşılaştırması
 
 Algoritmalar şu kriterlerle değerlendirilmiştir:
 
-Toplam memnuniyet puanı
-Çözüm süresi
-İşlem sayısı
-İterasyon (tur) sayısı
+-Toplam memnuniyet puanı
+
+-Çözüm süresi
+
+-İşlem sayısı
+
+-İterasyon (tur) sayısı
 
 Sonuçlar
+
 Greedy algoritma daha hızlı ve düşük işlem maliyetlidir.
+
 Heuristik algoritma daha dengeli ve tercih odaklı yerleştirme sağlar.
+
 Local Search adımı heuristik çözümü iyileştirmeye yardımcı olur.
 
-🛠️ Kullanılan Teknolojiler
+---
+
+## 🛠 Kullanılan Teknolojiler
+
 Python
+
 Pandas
+
 CSV / JSON veri yapıları
+
 Simülasyon tabanlı optimizasyon
 
-👩‍💻 Geliştiriciler
+---
+
+## 👩‍💻 Geliştiriciler
 
 İsmihan Kırmızıoğlan
+
 Melike Dal
+
 Bursa Teknik Üniversitesi — Bilgisayar Mühendisliği
 
-📌 Lisans
+---
+
+## 📌 Lisans
+
 Bu proje eğitim amaçlı geliştirilmiştir.
